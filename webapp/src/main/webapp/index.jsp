@@ -3,3 +3,4 @@
 
 <h2> Secussfully build and deploye to apache tomcat server </h2>
 
+<h1><font color="red"> Automatic build triggered </font><h1>
