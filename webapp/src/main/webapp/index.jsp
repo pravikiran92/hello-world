@@ -132,7 +132,7 @@ body {
 </div>
 
 <div class="navbar">
-  <a href="#" class="active">Home</a>
+  <a href="test.jsp" class="active">Home</a>
   <a href="#">Link</a>
   <a href="#">Link</a>
   <a href="#" class="right">Link</a>
