@@ -20,7 +20,7 @@ body {
 .header {
   padding: 80px;
   text-align: center;
-  background: #1abc9c;
+  background: #20B2AA;
   color: white;
 }
 
