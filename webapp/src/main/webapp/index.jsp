@@ -122,7 +122,7 @@ body {
 </style>
 </head>
 <body>
-  <h1><font color="sky blue"> Welcome to Valaxy Technologies</font> </h1>
+  <h1>Welcome to Valaxy Technologies</h1>
 
 
 <h1>Changes and build automatic triggered scussfully</h1
