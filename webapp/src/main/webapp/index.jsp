@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-<body>
+<head>
+  <title>Some relevant title</title>
+</head>
+  <body>
 
 <h1>My First JavaScript</h1>
 
