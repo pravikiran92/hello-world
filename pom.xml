@@ -19,6 +19,7 @@
     <module>server</module>
     <module>webapp</module>
   </modules>
+        
 
   <distributionManagement>
     <site>
@@ -26,6 +27,12 @@
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
     </site>
+           
+           <repository>
+                    <id>deployment</id>
+                    <name>internal snapshort Release</name>
+                    <url>http://14.192.2.73:8081/repository/Angular_Pipeline/</url>
+           </repository>
   </distributionManagement>
 
   <build>
