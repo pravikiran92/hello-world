@@ -31,7 +31,7 @@
            <repository>
                     <id>deployment</id>
                     <name>internal snapshort Release</name>
-                    <url>http://14.192.2.73:8081/repository/Angular_Pipeline/</url>
+                    <url>http://14.192.2.73:8081/repository/maven-releases//</url>
            </repository>
   </distributionManagement>
 
