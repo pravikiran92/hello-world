@@ -18,6 +18,7 @@
   <modules>
     <module>server</module>
     <module>webapp</module>
+    <module>webapp/src</module>
   </modules>
         
 
